@@ -2,3 +2,9 @@ model/
 output/
 src/main/resources/
 .idea
+*.iml
+*.ipr
+*.iws
+out
+target
+*.class
