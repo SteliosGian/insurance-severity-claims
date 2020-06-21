@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://central.maven.org/maven2'; switch to HTTPS or opt-in as ("MavenRepository" at "http://central.maven.org/maven2").withAllowInsecureProtocol(true)
