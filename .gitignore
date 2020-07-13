@@ -8,3 +8,5 @@ src/main/resources/
 out
 target
 *.class
+/project/project/
+/project/target/
